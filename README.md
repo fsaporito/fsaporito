@@ -15,6 +15,7 @@ Languages: ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?s
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 OS: ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
 
 
 ## &#x1f4c8; GitHub Stats
