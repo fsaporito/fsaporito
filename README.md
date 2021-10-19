@@ -9,15 +9,24 @@ I am a software engineer and applied mathematician from Italy.
 ## 🔧 Technologies & Tools
 Languages
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Cpp-informational?style=flat&logo=cpp&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Matlab-informational?style=flat&logo=matlab&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=2bbc8a)
 
 Build Tools & Editors
 
 ![](https://img.shields.io/badge/BuildTool-CMake-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Make-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Eclipse-informational?style=flat&logo=eclipse-ide&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Versioning-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BuildTool-Make-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/BuildTool-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Versioning-SVN-informational?style=flat&logo=svn&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual Studio Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 
 OS
