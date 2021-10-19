@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am a software engineer and applied mathematician from Italy.
+
+🔭 I’m currently working on Modern C++, Medical Image Processing, Concurrent Programming and GPGPU.
+🌱 I’m currently learning Go and Rust.
+
 <!--
 **fsaporito/fsaporito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
