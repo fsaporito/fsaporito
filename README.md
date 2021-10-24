@@ -30,6 +30,26 @@ Build Tools & Editors
 ![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
+Multithreading & GPGPU
+
+![](https://img.shields.io/badge/GPU-Cuda-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CPU-Intel TBB-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GPU-Nvidia Thrust-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CPU-OpenMP-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CPU-std::thread-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CPU-Windows Threads-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+
+Distributed Computing
+![](https://img.shields.io/badge/HPC-Akka-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HPC-Apache Spark-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HPC-CAF-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HPC-MPI-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
+
+Computer Vision
+
+![](https://img.shields.io/badge/CV-Intel IPP-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CV-NVidia Npp-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CV-OpenCV-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 
 OS
 
