@@ -39,7 +39,7 @@ OS
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaporito&?count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaporito&?count_private=true&?langs_count=6" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fsaporito&?show_icons=true&?count_private=true" />
 
 <!--
