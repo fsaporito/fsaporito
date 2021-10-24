@@ -27,29 +27,29 @@ Build Tools & Editors
 ![](https://img.shields.io/badge/BuildTool-Make-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/BuildTool-Maven-informational?style=flat&logo=maven&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Versioning-SVN-informational?style=flat&logo=svn&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Visual-Studio-Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual&nbsp;Studio-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Visual&nbsp;Studio&nbsp;Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
 
 Multithreading & GPGPU
 
 ![](https://img.shields.io/badge/GPU-Cuda-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CPU-Intel-TBB-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/GPU-Nvidia-Thrust-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CPU-Intel&nbsp;TBB-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/GPU-Nvidia&nbsp;Thrust-informational?style=flat&logo=cuda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CPU-OpenMP-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CPU-std::thread-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CPU-Windows-Threads-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CPU-Windows&nbsp;Threads-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 
 Distributed Computing
 
 ![](https://img.shields.io/badge/HPC-Akka-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HPC-Apache-Spark-informational?style=flat&make=cuda&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/HPC-Apache&nbsp;Spark-informational?style=flat&make=cuda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-CAF-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-MPI-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 
 Computer Vision
 
 ![](https://img.shields.io/badge/CV-Intel&nbsp;IPP-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CV-NVidia-Npp-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CV-NVidia&nbsp;Npp-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CV-OpenCV-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 
 OS
