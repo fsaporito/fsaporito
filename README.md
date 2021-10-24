@@ -48,7 +48,7 @@ Distributed Computing
 
 Computer Vision
 
-![](https://img.shields.io/badge/CV-Intel-IPP-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CV-"Intel IPP"-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CV-NVidia-Npp-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CV-OpenCV-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 
