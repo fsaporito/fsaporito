@@ -6,7 +6,7 @@ I am a software engineer and applied mathematician from Italy.
 
 🌱 I’m currently learning Go and Rust.
 
-:bank: In the past I worked as a Software Engineering Consultant in the trading area, with Java, Akka, C++ and Protobuffer over Kafka.
+:bank: In the past I worked as a Software Engineering Consultant in Finance (Trading), with Java, Akka, C++ and Protobuffer over Kafka.
 
 ## 🔧 Technologies & Tools
 Languages
