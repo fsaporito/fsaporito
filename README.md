@@ -7,7 +7,7 @@ I am a software engineer and applied mathematician from Italy.
 🌱 I’m currently learning Rust while mantaining my knowledge of Computer Vision.
 
 
-💀 I worked as a C++ Software Engineer in the Medical Image Processing field, focusing on Computer Vision, Concurrent Programming and GPGPU.
+💀 I worked as a C++ Software Engineer in the Medical Image Processing field, focusing on Computer Vision, Multithreading and GPGPU.
 
 🏦 I worked as a Software Engineering Consultant in Finance (Trading), with Java, Akka, C++ and Protobuffer over Kafka.
 
