@@ -2,11 +2,17 @@
 
 I am a software engineer and applied mathematician from Italy.
 
-🔭 I’m currently working on Modern C++, Medical Image Processing, Concurrent Programming and GPGPU.
+🔭 I’m currently working on Virtual Distributed Filesystems with Modern C++, Cassandra and RabbitMQ.
 
-🌱 I’m currently learning Go and Rust.
+🌱 I’m currently learning Rust while mantaining my knowledge of Computer Vision.
 
-:bank: In the past I worked as a Software Engineering Consultant in Finance (Trading), with Java, Akka, C++ and Protobuffer over Kafka.
+
+💀 I worked as a C++ Software Engineer in the Medical Image Processing field, focusing on Computer Vision, Concurrent Programming and GPGPU.
+
+🏦 I worked as a Software Engineering Consultant in Finance (Trading), with Java, Akka, C++ and Protobuffer over Kafka.
+
+
+You can follow me on <a href="https://twitter.com/fsaporito">Twitter</a> and <a href="https://www.linkedin.com/in/fsaporito">LinkedIn</a> for updates!
 
 ## 🔧 Technologies & Tools
 Languages
