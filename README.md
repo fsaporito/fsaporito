@@ -69,7 +69,7 @@ OS
 
 ## &#x1f4c8; GitHub Stats
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaporito&count_private=true&langs_count=8&layout=compact" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=fsaporito&show_icons=true&count_private=true" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fsaporito&count_private=true&langs_count=8&layout=compact&show_icons=true" /><img align="right" src="https://github-readme-stats.vercel.app/api?username=fsaporito&show_icons=true&count_private=true&show_icons=true" />
                                                                                                
 <!--
 **fsaporito/fsaporito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
