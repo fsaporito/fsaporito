@@ -48,7 +48,6 @@ Multithreading & GPGPU
 Distributed Computing
 
 ![](https://img.shields.io/badge/HPC-Akka-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/HPC-Apache&nbsp;Spark-informational?style=flat&make=cuda&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-CAF-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-MPI-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/HPC-RabbitMQ-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
@@ -58,12 +57,6 @@ Computer Vision
 ![](https://img.shields.io/badge/CV-Intel&nbsp;IPP-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CV-NVidia&nbsp;Npp-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CV-OpenCV-informational?style=flat&logo=make&logoColor=white&color=2bbc8a)
-
-OS
-
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 
 
