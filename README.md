@@ -2,10 +2,12 @@
 
 I am a software engineer and applied mathematician from Italy.
 
-🔭 I’m currently working on Virtual Distributed Filesystems with Modern C++, Cassandra and RabbitMQ.
+🔭 I’m currently working on as a C++ Software Engineering on a Low Latency Distributed AlgoTrading Platform with CAF.
 
-🌱 I’m currently learning Rust while mantaining my knowledge of Computer Vision.
+🌱 I’m currently learning Rust and Go.
 
+
+🔭 I have worked as a C++ Software Engineer on Virtual Distributed Filesystems with Cassandra and RabbitMQ.
 
 💀 I worked as a C++ Software Engineer in the Medical Image Processing field, focusing on Computer Vision, Multithreading and GPGPU.
 
